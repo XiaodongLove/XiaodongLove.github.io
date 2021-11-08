@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-08T14:59:26.912Z</updated>
+  <updated>2021-11-08T15:06:39.276Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,12 +21,15 @@
     <link href="http://example.com/2021/11/07/Hexo%20+%20Github%20Page%E6%90%AD%E5%BB%BA%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2021/11/07/Hexo%20+%20Github%20Page%E6%90%AD%E5%BB%BA%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/</id>
     <published>2021-11-07T02:31:07.000Z</published>
-    <updated>2021-11-08T14:59:26.912Z</updated>
+    <updated>2021-11-08T15:06:39.276Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a>参考链接：</h2><span id="more"></span><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>1.为什么要写技术博客？</p><p>技术沉淀：</p><ul><li><p>总结归纳：归纳总结是一种习惯，而写作是归纳总结的有力工具</p></li><li><p>增强记忆</p></li><li><p>纠错</p></li></ul><p>打造个人IP</p><p>职场加分</p><p>2.如何写技术博客？</p><h2 id="Hexo环境搭建"><a href="#Hexo环境搭建" class="headerlink" title="Hexo环境搭建"></a>Hexo环境搭建</h2><h3 id="环境准备"><a href="#环境准备" class="headerlink" title="环境准备"></a>环境准备</h3><p>查看对应的环境是否已经安装</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git version</span><br><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><h2 id="安装Hexo环境"><a href="#安装Hexo环境" class="headerlink" title="安装Hexo环境"></a>安装Hexo环境</h2><h3 id="Hexo常用命令"><a href="#Hexo常用命令" class="headerlink" title="Hexo常用命令"></a>Hexo常用命令</h3><h2 id="注册Github"><a href="#注册Github" class="headerlink" title="注册Github"></a>注册Github</h2><h2 id="配置SSH-key"><a href="#配置SSH-key" class="headerlink" title="配置SSH key"></a>配置SSH key</h2><h2 id="部署到Github"><a href="#部署到Github" class="headerlink" title="部署到Github"></a>部署到Github</h2><h2 id="开始写作"><a href="#开始写作" class="headerlink" title="开始写作"></a>开始写作</h2><h2 id="静态图床"><a href="#静态图床" class="headerlink" title="静态图床"></a>静态图床</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a>参考链接：</h2><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>1.为什么要写技术博客？</p><p>技术沉淀：</p><ul><li><p>总结归纳：归纳总结是一种习惯，而写作是归纳总结的有力工具</p></li><li><p>增强记忆</p></li><li><p>纠错</p></li></ul><p>打造个人IP</p><p>职场加分</p><p>2.如何写技术博客？</p><h2 id="Hexo环境搭建"><a href="#Hexo环境搭建" class="headerlink" title="Hexo环境搭建"></a>Hexo环境搭建</h2><h3 id="环境准备"><a href="#环境准备" class="headerlink" title="环境准备"></a>环境准备</h3><p>查看对应的环境是否已经安装</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git version</span><br><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><h2 id="安装Hexo环境"><a href="#安装Hexo环境" class="headerlink" title="安装Hexo环境"></a>安装Hexo环境</h2><h3 id="Hexo常用命令"><a href="#Hexo常用命令" class="headerlink" title="Hexo常用命令"></a>Hexo常用命令</h3><h2 id="注册Github"><a href="#注册Github" class="headerlink" title="注册Github"></a>注册Github</h2><h2 id="配置SSH-key"><a href="#配置SSH-key" class="headerlink" title="配置SSH key"></a>配置SSH key</h2><h2 id="部署到Github"><a href="#部署到Github" class="headerlink" title="部署到Github"></a>部署到Github</h2><h2 id="开始写作"><a href="#开始写作" class="headerlink" title="开始写作"></a>开始写作</h2><h2 id="静态图床"><a href="#静态图床" class="headerlink" title="静态图床"></a>静态图床</h2>]]></content>
     
     
-    <summary type="html">&lt;h2 id=&quot;参考链接：&quot;&gt;&lt;a href=&quot;#参考链接：&quot; class=&quot;headerlink&quot; title=&quot;参考链接：&quot;&gt;&lt;/a&gt;参考链接：&lt;/h2&gt;</summary>
+      
+      
+    <summary type="html">&lt;h2 id=&quot;参考链接：&quot;&gt;&lt;a href=&quot;#参考链接：&quot; class=&quot;headerlink&quot; title=&quot;参考链接：&quot;&gt;&lt;/a&gt;参考链接：&lt;/h2&gt;&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背</summary>
+      
     
     
     
